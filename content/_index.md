@@ -1,7 +1,7 @@
 ---
-title: Platen Example Site
+title: Gay
 summary: >-
-  This is an example site for digital books, built on Platen!
+  If you read this you're gay
 ---
 
 This is a place with some very good games I made. It uses hugo and markdown to turn some plaintext
